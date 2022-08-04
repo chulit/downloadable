@@ -16,13 +16,13 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.0",
-        "illuminate/support": "^8.83.23",
+        "php": "^8.0.2",
+        "illuminate/support": "^9.23.0",
         "rap2hpoutre/fast-excel": "^1.7"
     },
     "require-dev": {
-        "orchestra/testbench": "^6.27",
-        "phpunit/phpunit": "^8.5.19|^9.5.8"
+        "orchestra/testbench": "^7.60",
+        "phpunit/phpunit": "^9.5.8"
     },
     "autoload": {
         "psr-4": {
