@@ -18,7 +18,7 @@
     "require": {
         "php": "^7.1",
         "illuminate/support": "^6.0",
-        "rap2hpoutre/fast-excel": "^1.7"
+        "rap2hpoutre/fast-excel": "^1.7||^4.1"
     },
     "require-dev": {
         "orchestra/testbench": "^4.0",
